@@ -2,7 +2,22 @@
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
 IP-CIDR,104.236.69.0/24,no-resolve
-
+# tiktok
+IP-CIDR,71.18.0.0/16,no-resolve
+IP-CIDR,104.116.243.0/24,no-resolve
+IP-CIDR,34.54.11.0/24,no-resolve
+IP-CIDR,34.96.106.0/24,no-resolve
+IP-CIDR,34.107.238.0/24,no-resolve
+IP-CIDR,34.102.164.0/24,no-resolve
+IP-CIDR,34.117.67.0/24,no-resolve
+IP-CIDR,34.95.101.0/24,no-resolve
+IP-CIDR,84.26.91.0/24,no-resolve
+IP-CIDR,23.202.35.0/24,no-resolve
+IP-CIDR,184.51.102.0/24,no-resolve
+IP-CIDR,104.84.150.0/24,no-resolve
+IP-CIDR,184.26.91.0/24,no-resolve
+IP-CIDR,23.60.96.0/24,no-resolve
+IP-CIDR,167.82.86.0/24,no-resolve
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
